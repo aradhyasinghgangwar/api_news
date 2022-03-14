@@ -12,7 +12,7 @@ Widget customTileList(Article article, BuildContext context) {
     },
     child: Container(
       margin: EdgeInsets.all(12.0),
-      padding: EdgeInsets.all(10.0),
+      padding: EdgeInsets.all(8.0),
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(12.0),
